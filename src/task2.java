@@ -8,5 +8,6 @@ public class task2 {
         String fullName = lastName + " " + firstName + " " + middleName;
         fullName = fullName.toUpperCase();
         System.out.println(fullName);
+
     }
 }
