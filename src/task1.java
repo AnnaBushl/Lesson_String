@@ -4,6 +4,6 @@ public class task1 {
         String middleName = "Ivanovich";
         String lastName = "Ivanov";
         String fullName = lastName + " " + firstName + " " + middleName;
-        System.out.println(fullName);
+        System.out.println("ФИО сотрудника — " + fullName);
     }
 }
