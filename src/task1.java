@@ -5,6 +5,5 @@ public class task1 {
         String lastName = "Ivanov";
         String fullName = lastName + " " + firstName + " " + middleName;
         System.out.println(fullName);
-
     }
 }
